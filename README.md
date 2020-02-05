@@ -1,5 +1,8 @@
 # TinderBot
-TinderBot is a bot that constantly swipes **LIke** on tinder profiles so that you can focus on doing other things and find a romantic match
+TinderBot is a bot that constantly swipes **LIKE** on tinder profiles so that you can focus on doing other things and find a romantic match
+
+## How TinderBot was built 
+Tinder bot was built using Python and Selenium chromedriver. Selenium was used to interact with Chrome browser from the terminal or python script. Python was used to create scripts for executing _select_ and _click_ interacting pattern. In other words python was used to select specific elements such as buttons, input fields, and either send data to those fields or click them.  
 
 ### How to use the application
 - *You must have a tinder account already with the initial setup before going further.*

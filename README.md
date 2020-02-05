@@ -17,3 +17,7 @@ Tinder bot was built using Python and Selenium chromedriver. Selenium was used t
 - An interactive prompt should open up followed by a chrome window with tinder login details filled for you by the bot
 - Once bot is finished logging in run the command **bot.auto_swipe()**
 - Tinder bot should start swiping likes for each profile pic.
+
+### DEMO
+
+![](https://github.com/tarekul/TinderBot/blob/master/tinderbotDemo.gif)
